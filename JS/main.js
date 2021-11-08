@@ -1,0 +1,1 @@
+// welcome to js file , i'll add js code right here => <= , just kiding it will be down there..
